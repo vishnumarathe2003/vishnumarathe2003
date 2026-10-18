@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Vishnu marathe]
+# 👋 Hi, I'm VISHNU MARATHE
 
 ### 🎓 MCA Student | Aspiring Python Full-Stack Developer
 
@@ -15,7 +15,7 @@ I’m currently learning and exploring **Python, Django/Flask, HTML, CSS, JavaSc
 
 ## 📫 Contact
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Phone:** [+91 XXXXX XXXXX](tel:+91XXXXXXXXXX)
-- **LinkedIn:** [Your LinkedIn profile](https://www.linkedin.com/in/your-profile/ )
+- **Email:** vishnumarathe2003@gmail.com
+- **Phone:** 8459197712
+- **LinkedIn:** https://www.linkedin.com/feed/
 - **Portfolio:** [Your portfolio link](https://example.com )

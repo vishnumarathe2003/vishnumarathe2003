@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm [Vishnu marathe]
 
-<!--
-**vishnumarathe2003/vishnumarathe2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 MCA Student | Aspiring Python Full-Stack Developer
 
-Here are some ideas to get you started:
+I’m currently pursuing my **Master of Computer Applications (MCA)** and building my skills in **Python full-stack development**. I enjoy learning how web applications are designed and built, from the user interface to the backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning and exploring **Python, Django/Flask, HTML, CSS, JavaScript, and databases** through coursework and personal projects. My goal is to create useful, reliable applications and continue growing as a developer.
+
+## 🚀 About Me
+
+- 🎓 Pursuing a Master of Computer Applications (MCA)
+- 💻 Aspiring Python Full-Stack Developer
+- 🌱 Currently learning backend development and building web projects
+- 🤝 Open to learning, collaboration, and internship opportunities
+
+## 📫 Contact
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Phone:** [+91 XXXXX XXXXX](tel:+91XXXXXXXXXX)
+- **LinkedIn:** [Your LinkedIn profile](https://www.linkedin.com/in/your-profile/ )
+- **Portfolio:** [Your portfolio link](https://example.com )
